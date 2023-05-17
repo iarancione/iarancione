@@ -1,6 +1,6 @@
 - 👋 Hola, my name is Aranza, I'm 24 yrs old and I live in Mexico.
 - 👩🏽‍ 🔬 I'm a Bachelor in Pharm-Chemistry.
-- 💻 Recently I've started my new carreer in technology, specifically web developing. 
+- 💻 Recently I've started my new career in technology, specifically web developing. 
 - 🤓 I like learning new topics by myself but I think that learning with help of other ones is important too! 
 - 🌱 I’m currently learning JavaScript, HTML and CSS.
 - 📚 Also I love learning languages, I'm still improving my English level. 
