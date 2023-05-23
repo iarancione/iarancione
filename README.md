@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning JavaScript, HTML and CSS.
 - 📚 Also I love learning languages, I'm still improving my English level. 
 - 💬 You can text me in Spanish (my first language) or English, whatever you feel most most comfortable with is ok.
-- 🔎Take a look at my projects in the repository section, feel free to comment your opinions or suggestions to see what I can do better. 
+- 🔎Take a look at my projects in the repository section, feel free to send me your opinions or suggestions to see what I can do better. 
 - 👥 Visit my LinkedIn profile so we can keep in touching.
 
